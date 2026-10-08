@@ -8,7 +8,7 @@ This project simulates controlling the level and temperature of a tank with 4 de
 
 Low level alarm triggers when tank level below 20%. High level alarm triggers when tank level above 80%. High temp alarm triggers when temp is above 500. There is a 5 second delay to turn on and off devices and level and temp values are updated every 5 seconds.
 
-####**How to Install Project**
+#### **How to Install Project**
 1. Extract archive file
 2. Open archive file to open file in Automation Builder
 3. Click extract when the window pops up
